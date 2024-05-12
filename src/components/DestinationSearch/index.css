@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.bg-container {
+  text-align: center;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #252627;
+  font-family: 'Roboto';
+}
+
+.search {
+  width: 160px;
+  text-align: left;
+}
+
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 800px;
+  text-align: center;
+}
+.searcIcon {
+  height: 25px;
+  width: 25px;
+}
+
+.searchContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
